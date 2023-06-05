@@ -1,0 +1,294 @@
+{
+  "menu": [
+    {
+      "text": "Home",
+      "link": "/"
+    },
+    {
+      "text": "Sobre mi",
+      "link": "#aboutme"
+    },
+    {
+      "text": "Servicios",
+      "link": "#services"
+    },
+    {
+      "text": "Portfolio",
+      "link": "#portfolio"
+    },
+    {
+      "text": "Contacto",
+      "link": "#contact"
+    }
+  ],
+  "myskills": [
+    {
+      "language": "HTML5",
+      "percentage": "90",
+      "moreInfo": ""
+    },
+    {
+      "language": "CSS",
+      "percentage": "80",
+      "moreInfo": "FlexBox, Grid, Tailwind, Bootstrap"
+    },
+    {
+      "language": "JavaScript",
+      "percentage": "60",
+      "moreInfo": "JavaScript"
+    },
+    {
+      "language": "Worpdress Configuration",
+      "percentage": "100",
+      "moreInfo": "Nucleo, plugin, histing"
+    }
+  ],
+  "cv": [
+    {
+      "title": "Marbesol Car Rental ",
+      "date": "2022-2023",
+      "cargo": "Front End Developer",
+      "description": [
+        "Implementé importantes mejoras visuales siguiendo estándares de UX.",
+        "Para todos los cambios realizados, utilicé HTML, CSS, PHP y JS Vue.js según el sitio. La empresa cuenta con más de 6 sitios.",
+        "Gestioné, contraté e implementé software y módulos para el desarrollo de una nueva área de gestión de alquileres turísticos.",
+        "Realicé mantenimiento, optimización y modificaciones en todos los sitios basados en WordPress.",
+        "También propuse, diseñé y programé el rediseño de todos los correos electrónicos de la empresa, desde el registro hasta el alquiler de coches, pagos y el club VIP.",
+        "Investigué e implementé varias mejoras de SEO.",
+        "Gestioné campañas en Google Ads"
+      ],
+      "technology": "HTML5, CSS, JS, Vue.js, Wordpress, Git, Ads, Jira",
+      "textlink": "Marbesol",
+      "link": "https://es.linkedin.com/company/marbesol"
+    },
+    {
+      "title": "Pentamedia",
+      "date": "2021-2022",
+      "cargo": "Front End - Freelance",
+      "description": [
+        "He colaborado en más de 10 proyectos en LATAM y USA, realizando ajustes en CSS e implementando mejoras visuales según los requerimientos. Algunos  proyectos: ZeroMortgage, CTS Impact y DocAR.",
+        "Desarrollé el sitio web para la productora visual methodmadness.tv. Creé un módulo específico para la carga de videos según el director. Este sitio fue construido en WordPress con Elementor.",
+        "Desarrollé el sitio pienza.com.ar siguiendo el diseño proporcionado por la empresa en Photoshop.",
+        "Diseñe en Figma y programé todas las pantallas para un sistema de control y registro de vehículos, utilizando HTML, CSS y JavaScript. Este proyecto fue realizado para Aguas Cordobesas.",
+        "Además, he trabajado en conjunto en el desarrollo de sitios web de tipo landing page e institucionales."
+      ],
+      "technology": "CSS3, HTML5, PHP, Bootstrap, WordPress, Figma, SVN, GitLab",
+      "textlink": "Pentamedia SA",
+      "link": "https://ar.linkedin.com/company/pentamedia-tecnologia"
+    },
+    {
+      "title": "Martinez Gavier Software",
+      "date": "2018",
+      "cargo": "Ecommerce Implementation - Freelance",
+      "description": [
+        "Desarrollé y configuré todos los aspectos de una tienda online.",
+        "Configuré hooks específicos de WooCommerce para el proceso de pago, el cálculo del peso de los paquetes, el ingreso del DNI, entre otros.",
+        "Participé en la integración de la tienda con el sistema de gestión de la empresa.",
+        "Implementé cambios y mejoras en el sitio web durante las campañas de Hot Sale, con el objetivo de maximizar los resultados obtenidos durante ese período"
+      ],
+      "technology": "Wordpress, Woocomerce Hooks",
+      "textlink": "Martinez Gavier Software",
+      "link": "https://do.linkedin.com/company/martinez-gavier"
+    },
+    {
+      "title": "3 Focos Design",
+      "date": "2012-2018",
+      "cargo": "Front End - CEO",
+      "description": [
+        "Programé sitios web con HTML5 y CSS3.",
+        "Desarrollé temas de WordPress.",
+        "Realicé maquetación de temas de WordPress.",
+        "Administré y configuré varias tiendas online con WordPress y Prestashop.",
+        "Brindé soporte y mantenimiento de WordPress, actualizando el core y los plugins, y resolviendo incidencias.",
+        "Administré hosting, migraciones, backups y configuración de certificados SSL.",
+        "Realicé auditorías SEO, optimicé código y estructura."
+      ],
+      "technology": "CSS3, HTML5, PHP, WordPress, Prestashop, Google Search Console, Figma, cPanel, WHC",
+      "textlink": "3 Focos",
+      "link": "https://ar.linkedin.com/company/3focosdesign"
+    },
+    {
+      "title": "Peucor",
+      "date": "2006 - 2011",
+      "cargo": "Gestion y desarrollo ecommerce",
+      "description": [
+        "Programé y administré el sitio web.",
+        "Gestioné las ventas online.",
+        "Brindé soporte a los clientes online.",
+        "Realicé SEO On/Off Page, logrando el resultado número 1 en Google para 'Repuestos Peugeto en Córdoba, Argentina'"
+      ],
+      "technology": "Prestashop, CSS, HTML, PHP, Google Analytics, Google Search Console ",
+      "textlink": "Sitio Web Peucor",
+      "link": "https://peucor.com.ar"
+    },
+    {
+      "title": "eGroup",
+      "date": "2009",
+      "cargo": "Linkbuilder",
+      "description": [
+        "Busqué oportunidades de enlace en sitios web relevantes y de calidad.",
+        "Me comuniqué con propietarios de sitios web para solicitar enlaces.",
+        "Creé contenido con enlaces hacia el sitio web objetivo.",
+        "Realicé investigación sobre las últimas tendencias en SEO."
+      ],
+      "technology": "Google Toolbar, Majestic SEO, Dreamweaver, HTML, CSS",
+      "textlink": "eGroup Coordinador",
+      "link": "https://www.linkedin.com/in/gonzaloalbarracin/"
+    }
+  ],
+  "servicesWeb": [
+    {
+      "subtitle": "Sitios web personalizados que impulsan negocios",
+      "title": "Desarrollo de sitios",
+      "imgURL": "https://pameschurrer.es/wp-content/uploads/2022/04/desarrollo-web.png",
+      "description": "Webs adaptables a dispositivos móviles y SEO-friendly. Diseño a medida siguiendo estándares UX UI.",
+      "itemUL": [
+        "Landing pages.",
+        "Sitios Empresariales.",
+        "Catálogos Online.",
+        "Tiendas Online.",
+        "Implementación de temas de WordPress Premium."
+      ],
+      "moreinfo1": "",
+      "moreinfo2": "",
+      "moreinfo3": "Estas son las 4 fases de mi servicio ",
+      "proccess": [
+        {
+          "title": "BRIEFING",
+          "description": "Recopilación de información y análisis sobre el sitio a desarrollar. Planificación y definición de objetivos."
+        },
+        {
+          "title": "DISEÑO",
+          "description": "Creación de mapa de sitio. Diseño del sitio web acorde a imagen de marca."
+        },
+        {
+          "title": "DESARROLLO E IMPLEMENTACIÓN",
+          "description": "Programación del sito web, en este paso le doy vida al diseño."
+        },
+        {
+          "title": "PUBLICACIÓN",
+          "description": "Prueba, entrega y lanzamiento del sitio."
+        }
+      ]
+    }
+  ],
+  "serviceMaintenance": [
+    {
+      "imgURL": "https://pameschurrer.es/wp-content/uploads/2022/04/mentenimiento-wordpres.png",
+      "title": "Rediseño y Mantenimiento Web",
+      "line1": "Me especializo en mejorar la apariencia visual, corregir errores técnicos y optimizar la experiencia de navegación en dispositivos móviles.",
+      "line2": "Mis servicios incluyen:",
+      "maintenanceone": [
+        "Rediseño de sitios web: Transformo tu sitio existente en una versión mejorada, moderna y atractiva. Trabajaremos juntos para reflejar la identidad de tu marca y atraer a tus visitantes.",
+        "Corrección de errores en HTML, JS y Media Queries: Soluciono problemas en el funcionamiento y visualización de tu sitio web, asegurando una experiencia perfecta en diferentes dispositivos."
+      ],
+      "titlemaintenancetwo": "Servicios relacionados con WordPress",
+      "maintenancetwo": [
+        "Actualizaciones de temas y núcleo.",
+        "Instalación, actualización y configuración de plugins.",
+        "Actualización y carga de contenido.",
+        "Optimización de tiempos de carga.",
+        "Copias de seguridad y migración de servidor web.",
+        "Soporte de emergencia y recuperación ante hackeos.",
+        "Integración de Certificado SSL.",
+        " Sitio web de prueba (entorno de desarrollo): Realizo cambios y te proporciono una vista previa antes de implementarlos."
+      ],
+      "line3": ""
+    }
+  ],
+  "works": [
+    {
+      "id": "1",
+      "title": "Positivus",
+      "description": "React y Bootstrap. Sitio específicamente para agencias de marketing digital",
+      "technology": [
+        "figma",
+        "react",
+        "css",
+        "bem"
+      ],
+      "videoMp4":"https://pameschurrer.es/ima/positivus.mp4",
+      "linkweb": "https://pameschurrer.es/positivus/",
+      "linkGitHub": "https://github.com/schurrerpame/Amazing-LandingPage-Bootstrap-React",
+      "cover": "https://pameschurrer.es/ima/positivus.png",
+      "cover1": "https://pameschurrer.es/ima/positivus.png",
+      "cover2": "https://pameschurrer.es/ima/positivus.png",
+      "conver3": "https://pameschurrer.es/ima/positivus.png",
+      "moreInfo": "Diseño completo en Figma y maquetación en HTML5, CSS3 y JS para sistema para control de ingresos y egresos de vehículos."
+    
+    },
+    {
+      "id": "2",
+      "title": "Method & Madness Productora",
+      "description": "Página creada con WordPress y Elementor. Desarrollé un script para mostrar videos de fondo al pasar el mouse y un módulo específico para mostrar una grilla de videos por director.",
+      "technology": [
+        "wordpress",
+        "js",      
+        "css"
+      ],
+      "videoMp4":"https://pameschurrer.es/ima/mm.mp4",
+      "linkweb": "https://methodmadness.tv/",
+      "linkGitHub": "",
+      "cover": "https://pameschurrer.es/ima/mm.png"
+    },
+    {
+      "id": "3",
+      "title": "Tratany Brewery",
+      "description": "Proyecto desarrollado en React, siguiendo los estándares de UX, implementando  metodología CSS BEM Model. El logo e imágenes los generé utilizando inteligencia artificial.",
+      "technology": [
+        "figma",
+        "react",
+        "js",
+        "css",
+        "bem"
+      ],
+      "videoMp4":"https://pameschurrer.es/ima/beer.mp4",
+      "linkweb": "https://pameschurrer.es/tratany/",
+      "linkGitHub": "https://github.com/schurrerpame/project_modernweb_ui_ux_react_brewery",
+      "cover": "https://pameschurrer.es/ima/beer.png"
+    },
+    {
+      "id": "4",
+      "title": "Website Video Juego",
+      "description": "Desarrollé el sitio web utilizando React y Bootstrap.El logo e imágenes los generé utilizando inteligencia artificial, me inspiré en el concepto de combinar la película “Avatar” con el videojuego “God of War”.",
+      "technology": [
+        "react",
+        "css",
+        "bootstrap"
+      ],
+      "videoMp4":"https://pameschurrer.es/ima/game.mp4",
+      "linkweb": "https://pameschurrer.es/game/",
+      "linkGitHub": "https://github.com/schurrerpame/Website-React-Bootstrap-Concept-Avatars-and-God-of-War",
+      "cover": "https://pameschurrer.es/ima/avatar.png"
+    },
+    {
+      "id": "5",
+      "title": "Peucor E-commerce - Venta de auto partes",
+      "description": "Desarrollo de tienda online en Prestashop. Administración y mantenimiento. Sincronización de stock y precios. Posicionamiento SEO:  1er resultado en Google para 'Repuestos Peugeot Córdoba Argentina'.",
+      "technology": [
+        "css",
+        "prestashop",
+        "php"
+      ],
+      "videoMp4":"https://pameschurrer.es/ima/peucor.mp4",
+      "linkweb": "https://peucor.com.ar/",
+      "linkGitHub": "",
+      "cover": "https://pameschurrer.es/ima/peucor.png"
+    },
+  
+  {
+    "id": "6",
+    "title": "Pienza GNI",
+    "description": "Desarrollo en HTML5 y CSS. La empresa encargada del proyecto me brindó el diseño en pothoshop.",
+    "technology": [
+      "bootstrap",
+      "css",
+      "js"
+    ],
+    "videoMp4":"",
+    "linkweb": "https://pienza.com.ar/",
+    "linkGitHub": "",
+    "cover": "https://pameschurrer.es/ima/pienza.png"
+  }
+  ]
+}

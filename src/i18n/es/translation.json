@@ -1,0 +1,37 @@
+{
+    "hero":{
+      "title": "Front-End Developer",
+      "subtitle": "Transformando diseños en realidad"
+    },
+    "skills": {
+      "title": "Sobre mi",
+      "description1": "Buenas, soy Pame. He trabajado en el desarrollo de sitios a medida, desarrollo de temas para WordPress, así como en la actualización y corrección de errores. Tengo experiencia en todo el proceso para la creacion de tiendas en línea.",
+      "description2": "En los últimos meses, he estado profundizando mis conocimientos en JavaScript para crear sitios web ágiles utilizando React y su amplia variedad de paquetes.",
+      "description3": "Me apasiona el mundo de la maquetación y he tomado cursos de diseño UX UI. Puedo crear diseños utilizando Figma. Utilizo Bootstrap, Tailwind, CSS Flexbox y Grid según las necesidades de cada proyecto. Además, tengo experiencia en SEO, lo cual es un beneficio en mi código.",
+      "description4":"Siempre estoy buscando oportunidades para aprender y mejorar mi lógica de programación. Al mismo tiempo, estoy emocionada por explorar el fascinante mundo de la inteligencia artificial.",
+      "link":"Más información sobre mí"
+    },
+    "aboutme":
+    {
+        "title":"mas cositas",
+        "description1":"Buenas, soy Pame Schurrer, desarrolladora front-end. Nací en Argentina y recientemente me mudé a Málaga. Me fascina vivir cerca del mar y disfrutar de actividades al aire libre. Además, no puedo resistirme a explorar la deliciosa gastronomía que España tiene para ofrecer.",    
+        "description2":"Mi formación como analista en sistemas de computación me brinda una base sólida, y he complementado mis habilidades con cursos en maquetación, diseño UX/UI y JavaScript. Actualmente, estoy participando en el desafío 100 Days para mejorar mis habilidades.",
+        "description3":"Estoy abierta a oportunidades laborales como freelance o trabajo remoto, donde pueda aplicar mi experiencia y, al mismo tiempo, seguir aprendiendo y creciendo. Mi entusiasmo radica en formar parte de proyectos emocionantes y mantenerme actualizada sobre las últimas tecnologías y tendencias en el campo del desarrollo web."
+   
+   },
+    "services":{
+      "title":"Servicios"
+    },
+    "jobs":{
+      "title" :"Trabajos y Proyectos",
+      "description":""
+
+  },
+    "contact":{
+      "title": "Contacto",
+      "description": "Si quieres un presupuesto o tienes alguna consulta, puedes ponerte en contacto conmigo y contarme qué es lo que necesitas. Escribirme un correo a info@pameschurrer.es."
+    }
+    
+  }
+    
+   

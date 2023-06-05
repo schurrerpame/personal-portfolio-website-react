@@ -1,0 +1,37 @@
+{
+  "hero": {
+    "title": "Front-End Developer",
+    "subtitle": "Transforming designs into reality"
+  },
+  "skills": {
+    "title": "About Me",
+    "description1": "Hello! I'm Pamela. I've worked on theme development for WordPress, as well as updating and bug fixing. I also have experience in creating online stores. ",
+    "description2": "In the past few months, I've been diving deeper into JavaScript to build agile websites using React and its wide range of packages. ",
+    "description3": "I'm passionate about the world of styling and I've taken UX UI design courses. I can create designs using Figma. Depending on each project's requirements, I use Bootstrap, Tailwind, CSS Flexbox, and Grid. Additionally, I have SEO experience, which adds value to my code.",
+    "description4":" I'm always learning and I'm interested in improving my programming logic and exploring the exciting world of AI.",
+    "link":"More information about me"
+
+  },
+  "aboutme":
+  {
+      "title":"",
+      "description1":"Hello! I'm Pame Schurrer, a front-end developer. I was born in Argentina and recently moved to Málaga. I love living close to the sea and enjoying outdoor activities such as trekking, paddle tennis, and kayaking. Additionally, I can't resist exploring the incredible gastronomy that Spain has to offer.",
+      "description2":"My education as a computer systems analyst provides me with a solid foundation, and I have complemented my skills with courses in web design, UX/UI, and JavaScript. Currently, I am participating in the 100 Days Challenge to enhance my skills and stay up-to-date with the latest trends in web development.",
+      "description3":"I am open to freelance or remote job opportunities where I can apply my experience and, at the same time, continue learning and growing. My enthusiasm lies in being part of exciting projects and staying updated on the latest technologies and trends in the field of web development."
+ },
+  "services":{
+    "title":"Service"
+  },
+  
+    "jobs":{
+      "title" :"Works and Proyects",
+      "description":""
+
+  },
+  "contact":{
+    "title": "Contact",
+    "description": "For quotes or inquiries, please reach out to me via email at info@pameschurrer.es."
+    
+  }
+ 
+}
