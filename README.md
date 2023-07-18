@@ -10,9 +10,6 @@ Hey there! This is my personal portfolio website where I showcase my work, skill
 
 Feel free to explore and modify this website for your own personal use. Enjoy!
 
-## Live Demo
-[Live Demo](https://pameschurrer.es/)
-
 
 
 ![sitio](https://pameschurrer.es/web.png)
